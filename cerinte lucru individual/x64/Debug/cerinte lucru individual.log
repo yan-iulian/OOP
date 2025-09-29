@@ -1,0 +1,4 @@
+﻿  cerinte .cpp
+C:\Users\YAN\Desktop\poo an2\cerinte lucru individual\cerinte .cpp(364,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\YAN\Desktop\poo an2\cerinte lucru individual\cerinte .cpp(371,10): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  cerinte lucru individual.vcxproj -> C:\Users\YAN\Desktop\poo an2\cerinte lucru individual\x64\Debug\cerinte lucru individual.exe

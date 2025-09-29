@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lucru relatia has a", "lucru relatia has a.vcxproj", "{60E34FE7-CFBD-4112-B78E-D633C29E46FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60E34FE7-CFBD-4112-B78E-D633C29E46FA}.Debug|x64.ActiveCfg = Debug|x64
+		{60E34FE7-CFBD-4112-B78E-D633C29E46FA}.Debug|x64.Build.0 = Debug|x64
+		{60E34FE7-CFBD-4112-B78E-D633C29E46FA}.Debug|x86.ActiveCfg = Debug|Win32
+		{60E34FE7-CFBD-4112-B78E-D633C29E46FA}.Debug|x86.Build.0 = Debug|Win32
+		{60E34FE7-CFBD-4112-B78E-D633C29E46FA}.Release|x64.ActiveCfg = Release|x64
+		{60E34FE7-CFBD-4112-B78E-D633C29E46FA}.Release|x64.Build.0 = Release|x64
+		{60E34FE7-CFBD-4112-B78E-D633C29E46FA}.Release|x86.ActiveCfg = Release|Win32
+		{60E34FE7-CFBD-4112-B78E-D633C29E46FA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00538B9E-A308-445C-A283-2BA1D2A92987}
+	EndGlobalSection
+EndGlobal

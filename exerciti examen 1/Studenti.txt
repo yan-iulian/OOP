@@ -1,0 +1,9 @@
+
+~~~~~~~~~~~~~~~~~~~
+Id student : 1
+Nume student :Marius
+Nr de note : 7
+Note : 10	6	8	6	5	10	5	
+Email student :marius22@stud.ase.ro
+Prezente: true	true	true	true	true	true	true	true	false	false	false	false	false	false	
+~~~~~~~~~~~~~~~~~~~~~~~~

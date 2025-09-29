@@ -1,0 +1,4 @@
+﻿  5.cpp
+C:\Users\YAN\Desktop\poo an2\exercitii examen subiect 5\5.cpp(101,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\YAN\Desktop\poo an2\exercitii examen subiect 5\5.cpp(110,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  exercitii examen subiect 5.vcxproj -> C:\Users\YAN\Desktop\poo an2\exercitii examen subiect 5\x64\Debug\exercitii examen subiect 5.exe
