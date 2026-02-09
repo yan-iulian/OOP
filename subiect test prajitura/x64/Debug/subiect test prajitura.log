@@ -1,5 +1,0 @@
-﻿  prajitura .cpp
-C:\Users\YAN\Desktop\poo an2\subiect test prajitura\prajitura .cpp(234,39): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\YAN\Desktop\poo an2\subiect test prajitura\prajitura .cpp(234,46): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\YAN\Desktop\poo an2\subiect test prajitura\prajitura .cpp(234,53): warning C4305: 'initializing': truncation from 'double' to 'float'
-  subiect test prajitura.vcxproj -> C:\Users\YAN\Desktop\poo an2\subiect test prajitura\x64\Debug\subiect test prajitura.exe
